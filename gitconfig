@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aydogann22@gmail.com
+	name = Aydogan Avcioglu
